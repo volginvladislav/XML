@@ -1,12 +1,12 @@
 <Structure>
-      		<p_1>Summary</p_1> 
-  		<p_2>Project</p_2>
-  		<p_3>Component</p_3>
-  		<p_4>Version</p_4>
-  		<p_5>Severity</p_5>
-  		<p_6>Priority</p_6>
-  		<p_7>Steps to reproduce</p_7>
-  		<p_8>Actual Result</p_8>
-  		<p_9>Expected Result</p_9>
-  		<p_10>Additional information</p_10>
+      	<p_1>Summary</p_1> 
+  	<p_2>Project</p_2>
+  	<p_3>Component</p_3>
+  	<p_4>Version</p_4>
+  	<p_5>Severity</p_5>
+  	<p_6>Priority</p_6>
+  	<p_7>Steps to reproduce</p_7>
+  	<p_8>Actual Result</p_8>
+  	<p_9>Expected Result</p_9>
+  	<p_10>Additional information</p_10>
 </Structure>
