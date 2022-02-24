@@ -1,0 +1,23 @@
+<Preferences>
+	<Favorite_movies>
+		<mv_1 year="2011">
+			<name>1+1</name>
+		</mv_1>
+		<mv_2 year="2014">
+			<name>InterStellar</name>
+		</mv_2>
+		<mv_3 year="2009">
+			<name>Mr Nobody</name>
+		</mv_3>
+	</Favorite_movies>
+	<Favorite_series>
+		<s1>vikings</s1>
+		<s2>True Detective</s2>
+	</Favorite_series>
+	<Favorite_food>pizza</Favorite_food>
+	<Favorite_sezon>winter</Favorite_sezon>
+	<Country_to_visit>
+		<country_1>New Zealand</country_1>
+		<country_2>USA</country_2>
+	</Country_to_visit>
+</Preferences>
